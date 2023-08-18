@@ -1,2 +1,1 @@
-ALX git learning
-Commit message quick fix
+ALX git learning, commit message quick fix, and an update
